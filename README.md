@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=shashirajraja)
           ![eat-sleep-code-black](https://user-images.githubusercontent.com/100037271/154814655-d1cfb5cc-98d3-47c0-9360-c309c2b36984.png)
 
-<h1 align="center">Hey folks 👋 I'm PRATIK MALI</h1>
+<h1 align="center">Hey  folks 👋 I'm PRATIK MALI</h1>
 <h3 align="center">A passionate JAVA developer just figuring out ways to solve errors !!</h3>
 
 - 📫 How to reach me **malipratik.2018@gmail.com**
