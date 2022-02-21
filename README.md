@@ -7,7 +7,7 @@
 <h3 align="center">A passionate JAVA developer just figuring out ways to solve errors !!</h3>
 
 - 📫 How to reach me **malipratik.2018@gmail.com**
-- ⚡ Here to Hustle !!
+- ⚡ Hustle || optimism
 - 🔭 Fun fact is I Am Extrovert who pretends like an Introvert , XD  !
 
 <h3 align="left">Connect with me:</h3>
