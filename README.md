@@ -1,13 +1,14 @@
 
 
 ![](https://komarev.com/ghpvc/?username=shashirajraja)
-         
+         ![eat-sleep-code-black](https://user-images.githubusercontent.com/100037271/154990146-c5d7aee9-79bf-4edb-87c0-4e01909ade61.png)
+
 
 <h1 align="center">Hey  folks 👋 I'm PRATIK MALI</h1>
 <h3 align="center">A passionate JAVA developer just figuring out ways to solve errors !!</h3>
 
 - 📫 How to reach me **malipratik.2018@gmail.com**
-- ⚡ Hustle || optimism
+- ⚡ here to Hustle !!
 - 🔭 Fun fact is I Am Extrovert who pretends like an Introvert , XD  !
 
 <h3 align="left">Connect with me:</h3>
