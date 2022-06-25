@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=shashirajraja)
        
-  ![eat-sleep-code-black_edited](https://user-images.githubusercontent.com/100037271/154991241-57f64c72-55eb-46d8-9b35-28082a58420c.jpg)
+
 
 
 <h1 align="center">Hey  folks 👋 I'm PRATIK MALI</h1>
