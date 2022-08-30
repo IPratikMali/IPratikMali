@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Hey  folks 👋 I'm PRATIK MALI</h1>
-<h3 align="center">A passionate JAVA developer just figuring out ways to solve errors !!</h3>
+<h3 align="center">A passionate JAVA developer just figuring out ways to solve errors !</h3>
 
 - 📫 How to reach me **malipratik.2018@gmail.com**
 - ⚡ here to Hustle !!
