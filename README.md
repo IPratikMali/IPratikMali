@@ -1,4 +1,7 @@
   ![Profile View Counter](https://komarev.com/ghpvc/?username=IPratikMali)
+  
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IPratikMali)
+  
 
    ![eat-sleep-code-black (1)2](https://user-images.githubusercontent.com/100037271/175779322-11725db7-1be8-487f-ba0a-da7d63481497.png)
 
