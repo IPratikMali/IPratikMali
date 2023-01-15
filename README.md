@@ -5,7 +5,7 @@
 .........................................................................
    ![eat-sleep-code-black (1)2](https://user-images.githubusercontent.com/100037271/175779322-11725db7-1be8-487f-ba0a-da7d63481497.png)---------------------------------------
 
--------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 
 <h1 align="center">Hey  folks 👋 I'm PRATIK MALI</h1>
 <h3 align="center">A passionate JAVA developer.. just figuring out ways to pass hidden test-cases !</h3>
