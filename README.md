@@ -4,7 +4,7 @@
     <img src = "https://user-images.githubusercontent.com/100037271/217868410-dfaf3709-0c50-4fa9-adce-246979f0aa8b.gif">
 </p>
 
--------------------------------------------------------------------
+
 
 <h1 align="center">Hey , 👋 I'm PRATIK MALI</h1>
 <h3 align="center">A passionate JAVA developer.. just figuring out ways to pass hidden test-cases !</h3>
