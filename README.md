@@ -1,4 +1,4 @@
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=IPratikMali)
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=IPratikMali)
   
 <p align="center"> 
     <img src = "https://user-images.githubusercontent.com/100037271/217868410-dfaf3709-0c50-4fa9-adce-246979f0aa8b.gif">
