@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hey , 👋 I'm PRATIK MALI</h1>
-<h3 align="center">A passionate JAVA developer.. just figuring out ways to pass hidden test-cases !</h3>
+<h3 align="center">A passionate developer.. just figuring out ways to pass hidden test-cases !</h3>
 
 - 📫 How to reach me **malipratik.2018@gmail.com**
 - ⚡hustling !!
